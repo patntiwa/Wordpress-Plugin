@@ -1,0 +1,3 @@
+[submodule "wodaabe"]
+	path = wodaabe
+	url = https://github.com/patntiwa/wodaabe-reservation-system.git
