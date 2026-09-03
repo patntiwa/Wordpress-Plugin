@@ -1,3 +1,6 @@
 [submodule "wodaabe"]
 	path = wodaabe
 	url = https://github.com/patntiwa/wodaabe-reservation-system.git
+[submodule "patineb-suite"]
+	path = patineb-suite
+	url = https://github.com/patntiwa/patineb-suite.git

@@ -8,6 +8,7 @@ affiche son contenu directement sur GitHub).
 | Dossier | Dépôt |
 |---|---|
 | [`wodaabe/`](https://github.com/patntiwa/wodaabe-reservation-system) | Plugin de réservation Wodaabe Stays |
+| [`patineb-suite/`](https://github.com/patntiwa/patineb-suite) | Suite modulaire (Équipe, FAQ, Réalisations, Avis) filtrable par pôle |
 
 ## Ajouter un nouveau projet
 
